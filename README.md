@@ -48,4 +48,4 @@ Contiene la ejecución principal (`main`):
 
 1. Clonar o descargar este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/proyecto-poo-politicos.git](https://github.com/tu-usuario/proyecto-poo-politicos.git)
+   git clone https://github.com/obeyrafipa-ai/proyecto-politicos-Fidel.git
